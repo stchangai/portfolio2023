@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BigJohn";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;   
+    src: local("BigJohn") url("@/assets/fonts/BigJohn-Bold.otf") format("opentype");
+}
