@@ -56,6 +56,7 @@ export default{
     align-items: flex-start;
 
     padding:1vh 1vw;
+    position:relative;
 }
 
 h1{
