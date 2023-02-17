@@ -82,7 +82,7 @@ span img{
     width: 16px;
 }
 
-.playVideo input{
+input{
     position: absolute;
     top: 0;
     left: 0;
