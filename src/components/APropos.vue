@@ -137,7 +137,7 @@ ul{
     /* transform: translate3d(0,100%, 0); */
     animation-fill-mode: forwards;
     line-height: 1.2;
-    font-size: 2.1rem;
+    font-size: 0.95em;
 }
 
 @keyframes AnimatedLetter{
@@ -152,7 +152,7 @@ ul{
     /* animation-delay: 1s; */
     /* transform: translate3d(0,100%, 0); */
     animation-fill-mode: forwards;
-    font-size: 4.5rem;
+    font-size: 3em;
 
 }
 

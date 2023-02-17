@@ -2,8 +2,9 @@
     <div class="projectCard" :style="{background: 'no-repeat center url('+ image +')'}">
         <h1>{{ title }}</h1>
         <p class="projectSousTitre">{{ sousTitre }}</p>
+        <input v-model="PlayIsClicked" type="checkbox">
         <label class="playVideo">
-            <input v-model="PlayIsClicked" type="checkbox">
+            
             <span class="iconPlay"><img src="@/assets/icons/play.svg" alt="icon video play"></span>
         </label>
         
@@ -82,11 +83,12 @@ span img{
 }
 
 .playVideo input{
-    position:absolute;
-    right:0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     opacity: 0;
-    width: 0;
-    height: 0;
 
 }
 
@@ -97,7 +99,7 @@ span img{
     width: 16px;
 }
 
-input:hover + span>img {
+input:hover + label > span>img {
     transform:scale(1.8);
 }
 
