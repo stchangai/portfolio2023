@@ -93,6 +93,7 @@ body{
   #app .letterAppearing{
     animation:none;
     opacity:1;
+    font-size: 150%;
   }
   #competences h1{
     font-size: 1.6em;
