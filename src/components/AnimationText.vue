@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="text-bottom">
-            <h3 class="presentation under desktop">Je m'appelle Solem Tchangaï, actuellement en dernière année d'école d'ingénieur. <br>Je suis heureuse de vous accueillir dans mon univers.</h3>
+            <h3 class="presentation under desktop">Je m'appelle Solem Tchangaï, ingénieure bientôt diplômée en recherche d'emploi. <br>Je suis heureuse de vous accueillir dans mon univers.</h3>
         </div>
     </div>
   </template>

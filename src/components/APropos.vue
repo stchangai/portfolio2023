@@ -25,7 +25,7 @@
             presentationSplitInArray : "",
             presentationMailLetterArray : "",
             timer : 0,
-            presentationSpeech : "Salut! Je suis Solem Tchangaï, une ingénieure passionnée par le développement web. Les frameworks Javascript c'est mon dada. J'aime travailler en équipe et je suis toujours à l'écoute pour aider les autres. N'hésitez pas à me contacter si vous avez des questions ou si vous voulez discuter d'un projet ensemble!",
+            presentationSpeech : "Bonjour ! Je suis Solem Tchangaï, une ingénieure passionnée par le développement web. Les frameworks Javascript c'est mon dada. J'aime travailler en équipe et je suis toujours à l'écoute pour apprendre des autres. N'hésitez pas à me contacter si vous avez des questions ou si vous voulez discuter d'un projet ensemble!",
             presentationMail : "solem.tchangai@orange.fr"
         }
     },
