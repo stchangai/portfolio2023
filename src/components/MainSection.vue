@@ -118,7 +118,7 @@ a{
 
 .downArrowIcon{
     position :absolute;
-    top: 85vh;
+    top: 82vh;
     left:50%;
     height: 40px;
     width: 40px;

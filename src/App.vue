@@ -117,6 +117,10 @@ body{
   #app .animationText > div{
     height:55%;
   }
+  #app .animationText h1.top{
+    font-size: 1.75em;
+    margin-left: auto;
+  }
   #app .projectCard{
     width:60vw;
   }

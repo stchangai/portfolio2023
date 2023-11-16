@@ -124,6 +124,7 @@ h1{
     letter-spacing: 1px;
     /* z-index: 100; */
     font-family: 'BigJohn','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
 }
 
 
