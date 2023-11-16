@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <MainSection title="Portfolio" nextpage="projects"/>
-    <MainSection title="Projects" />
+    <MainSection title="Portfolio" nextpage="projets"/>
+    <MainSection title="Projets" />
     <MainSection title="A Propos" v-on:mouseenter="createSpan()" :enterpage="InAProposPage"/>
     <MainSection title="Competences"/>
   </div>
@@ -119,7 +119,7 @@ body{
   }
   #app .animationText h1.top{
     font-size: 1.75em;
-    margin-left: auto;
+    margin-left: 1vh;
   }
   #app .projectCard{
     width:60vw;

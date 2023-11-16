@@ -200,7 +200,7 @@ export default {
     this.target = new Three.Vector2();
     this.windowHalf = new Three.Vector2( window.innerWidth / 2, window.innerHeight / 2 );
     this.raycaster = new Three.Raycaster();
-    this.pages = ["projects", "introduction", "contact", "hightlight1"]
+    this.pages = ["projets", "introduction", "contact", "hightlight1"]
     
     this.init();
     this.animate();

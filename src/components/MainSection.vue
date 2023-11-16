@@ -7,7 +7,7 @@
         <!-- <h3 class="presentation under desktop">Je m'appelle Solem Tchangaï, actuellement en dernière année d'école d'ingénieur. <br>Je suis heureuse de vous accueillir dans mon univers.</h3> -->
         <ThreejsAnimation class="threejs" v-if="title.toLowerCase() == 'portfolio'" v-bind:getCommands.sync="getCommands" v-bind:rotation.sync="rotation"/>
         <AccueilCommand v-show="getCommands" v-bind:rotation.sync="rotation"/>
-        <ProjectsList v-if="title.toLowerCase() == 'projects'" />
+        <ProjectsList v-if="title.toLowerCase() == 'projets'" />
         <APropos v-if="title.toLowerCase() == 'a propos'" />
         
         <CompetencesList v-if="title.toLowerCase() == 'competences'" />
